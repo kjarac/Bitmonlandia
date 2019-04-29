@@ -15,8 +15,12 @@ namespace Bitmonlandia
         protected int cantidadDeHijos;
         protected int posicionX;
         protected int posicionY;
+
+
         public abstract string CambioTerreno();
+
         public abstract int Daño(Bitmon bitmon);
+
         public abstract void Desplazamiento(Mapa mapa);
 
         public int PosicionX()
@@ -55,6 +59,7 @@ namespace Bitmonlandia
         {
             puntosDeVida -= ataque;
         }
+
         public int ObtenerAtaque()
         {
             return puntosDeAtaque;

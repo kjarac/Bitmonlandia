@@ -8,7 +8,7 @@ namespace Bitmonlandia
 {
     class Simulacion
     {
-        Zona zona;
+        private Zona zona;
         public Simulacion(Zona zona)
         {
             this.zona = zona;
