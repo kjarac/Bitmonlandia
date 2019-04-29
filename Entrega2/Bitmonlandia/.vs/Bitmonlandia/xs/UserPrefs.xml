@@ -1,0 +1,37 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Bitmon.cs">
+    <Files>
+      <File FileName="Bitmon.cs" Line="65" Column="1" />
+      <File FileName="Doti.cs" Line="41" Column="14" />
+      <File FileName="Ent.cs" Line="65" Column="8" />
+      <File FileName="Gofue.cs" Line="102" Column="7" />
+      <File FileName="Mapa.cs" Line="17" Column="11" />
+      <File FileName="Program.cs" Line="148" Column="73" />
+      <File FileName="Simulacion.cs" Line="1" Column="1" />
+      <File FileName="Taplan.cs" Line="101" Column="9" />
+      <File FileName="Wetar.cs" Line="28" Column="9" />
+      <File FileName="Zona.cs" Line="14" Column="30" />
+      <File FileName="Dorvalo.cs" Line="87" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Bitmonlandia" expanded="True">
+            <Node name="Bitmonlandia" expanded="True">
+              <Node name="Bitmon.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>Bitmonlandia.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
